@@ -34,5 +34,5 @@ python -m nltk.downloader punkt stopwords
 
 - Named Entity Recognition (NER)
 - Text Summarization
-3.Chatbot Development
-4.Language Translation
+- Chatbot Development
+- Language Translation
