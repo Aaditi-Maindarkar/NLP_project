@@ -4,15 +4,7 @@ This repository contains an AI-based multi-functional application that performs 
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
-   - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
-   - [Text Summarization](#text-summarization)
-   - [Chatbot Development](#chatbot-development)
-   - [Language Translation](#language-translation)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Acknowledgements](#acknowledgements)
-
+   
 ## Installation
 
 To use the application, follow these steps to set up the environment and install necessary dependencies:
