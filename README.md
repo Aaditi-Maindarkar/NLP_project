@@ -28,3 +28,10 @@ python -m spacy download en_core_web_sm
 
 # Optional: Download NLTK data
 python -m nltk.downloader punkt stopwords
+```
+
+## Project Includes
+Named Entity Recognition (NER)
+Text Summarization
+Chatbot Development
+Language Translation
