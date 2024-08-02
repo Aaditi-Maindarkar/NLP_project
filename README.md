@@ -31,7 +31,8 @@ python -m nltk.downloader punkt stopwords
 ```
 
 ## Project Includes
-Named Entity Recognition (NER)
-Text Summarization
-Chatbot Development
-Language Translation
+
+1.Named Entity Recognition (NER)
+2.Text Summarization
+3.Chatbot Development
+4.Language Translation
